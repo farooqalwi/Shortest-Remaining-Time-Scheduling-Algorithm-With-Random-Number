@@ -1,0 +1,14 @@
+D:\UoK\CSSE-IV\OS\Lab\Assignments\New PCB Assignment\Scheduling Algorithm Source Code\Shortest Remaining Time Scheduling Algorithm\bin\Debug\Shortest Remaining Time Scheduling Algorithm.exe.config
+D:\UoK\CSSE-IV\OS\Lab\Assignments\New PCB Assignment\Scheduling Algorithm Source Code\Shortest Remaining Time Scheduling Algorithm\bin\Debug\Shortest Remaining Time Scheduling Algorithm.exe
+D:\UoK\CSSE-IV\OS\Lab\Assignments\New PCB Assignment\Scheduling Algorithm Source Code\Shortest Remaining Time Scheduling Algorithm\bin\Debug\Shortest Remaining Time Scheduling Algorithm.pdb
+D:\UoK\CSSE-IV\OS\Lab\Assignments\New PCB Assignment\Scheduling Algorithm Source Code\Shortest Remaining Time Scheduling Algorithm\obj\Debug\Shortest Remaining Time Scheduling Algorithm.csprojAssemblyReference.cache
+D:\UoK\CSSE-IV\OS\Lab\Assignments\New PCB Assignment\Scheduling Algorithm Source Code\Shortest Remaining Time Scheduling Algorithm\obj\Debug\Shortest Remaining Time Scheduling Algorithm.csproj.CoreCompileInputs.cache
+D:\UoK\CSSE-IV\OS\Lab\Assignments\New PCB Assignment\Scheduling Algorithm Source Code\Shortest Remaining Time Scheduling Algorithm\obj\Debug\Shortest Remaining Time Scheduling Algorithm.exe
+D:\UoK\CSSE-IV\OS\Lab\Assignments\New PCB Assignment\Scheduling Algorithm Source Code\Shortest Remaining Time Scheduling Algorithm\obj\Debug\Shortest Remaining Time Scheduling Algorithm.pdb
+D:\UoK\CSSE-IV\OS\Lab\Assignments\New PCB Assignment\Scheduling Algorithm Source Code\Shortest Remaining Time Scheduling Algorithm With Random Number\bin\Debug\Shortest Remaining Time Scheduling Algorithm.exe.config
+D:\UoK\CSSE-IV\OS\Lab\Assignments\New PCB Assignment\Scheduling Algorithm Source Code\Shortest Remaining Time Scheduling Algorithm With Random Number\bin\Debug\Shortest Remaining Time Scheduling Algorithm.exe
+D:\UoK\CSSE-IV\OS\Lab\Assignments\New PCB Assignment\Scheduling Algorithm Source Code\Shortest Remaining Time Scheduling Algorithm With Random Number\bin\Debug\Shortest Remaining Time Scheduling Algorithm.pdb
+D:\UoK\CSSE-IV\OS\Lab\Assignments\New PCB Assignment\Scheduling Algorithm Source Code\Shortest Remaining Time Scheduling Algorithm With Random Number\obj\Debug\Shortest Remaining Time Scheduling Algorithm.csprojAssemblyReference.cache
+D:\UoK\CSSE-IV\OS\Lab\Assignments\New PCB Assignment\Scheduling Algorithm Source Code\Shortest Remaining Time Scheduling Algorithm With Random Number\obj\Debug\Shortest Remaining Time Scheduling Algorithm.csproj.CoreCompileInputs.cache
+D:\UoK\CSSE-IV\OS\Lab\Assignments\New PCB Assignment\Scheduling Algorithm Source Code\Shortest Remaining Time Scheduling Algorithm With Random Number\obj\Debug\Shortest Remaining Time Scheduling Algorithm.exe
+D:\UoK\CSSE-IV\OS\Lab\Assignments\New PCB Assignment\Scheduling Algorithm Source Code\Shortest Remaining Time Scheduling Algorithm With Random Number\obj\Debug\Shortest Remaining Time Scheduling Algorithm.pdb
